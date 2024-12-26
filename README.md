@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, my name is Francesco.
+⚙ I am currently working on the 🎬 Aringa Films' 📸 Website ⚙
 
 <!--
 **francescouv/francescouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
